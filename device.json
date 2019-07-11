@@ -42,6 +42,20 @@
       ]
    },
    {
+      "name":"Galaxy J7 2016",
+      "brand":"Samsung",
+      "codename":"j7xelte",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Salvatore",
+            "maintainer_url":"https://t.me/sasi2006166",
+            "xda_thread":""
+         }
+      ]
+   },
+   {
       "name":"Redmi 4/4X",
       "brand":"Xiaomi",
       "codename":"santoni",
@@ -50,7 +64,7 @@
             "version_code":"pie",
             "version_name":"Pie",
             "maintainer_name":"NBD_ERICK",
-            "maintainer_url":"https://t.me/device/xiaomi/santoni/prebuilts",
+            "maintainer_url":"https://t.me/NBD_ERICK",
             "xda_thread":""
          }
       ]
